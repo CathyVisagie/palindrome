@@ -1,0 +1,11 @@
+Follow these steps:
+● Note: For this task, you will need to create an HTML file to get input from
+a user. If you need a refresher on how to do this, go back to the
+example.js and index.html files in your Task 1 folder for examples.
+● Create a JavaScript file called palindrome.js.
+● Write a program that asks the user to enter a word.
+● Using a while loop, the program must determine whether or not the
+word is a palindrome, i.e. whether it reads the same forwards and
+backwards. An example of a palindrome is the word “racecar”.
+● Output the given word and whether or not it is a palindrome, e.g.
+“racecar is a palindrome”
